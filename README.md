@@ -3,7 +3,7 @@
 ### Play live chess game against a top chess computer.
 View the **[live site](https://sparkling-view.surge.sh)**.
 
-![Web 1920 – 1](./homepage.png)
+![homepage](./frontend/homepage.png)
 
 
 ## Technologies Used

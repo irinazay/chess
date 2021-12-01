@@ -1,0 +1,31 @@
+.Navigation {
+    background-color: white;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.125);
+    display: flex;
+    justify-content: space-between;
+
+  }
+.nav-item {
+    list-style-type: none;
+
+}
+
+.navbar-brand{
+    margin-left: 2rem; 
+    text-decoration: none;
+    font-size: 20px;
+    color: blueviolet;
+    margin-top: 1rem;
+    
+ }
+
+
+ .nav-link.active {
+   font-weight: bold;
+   color: black;
+ }
+
+.navbar-nav {
+    display: flex;
+    justify-content: center;
+}

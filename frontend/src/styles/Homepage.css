@@ -1,0 +1,57 @@
+.game {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+  }
+
+.signup {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+ 
+}
+
+.signup-link {
+    text-decoration: none;
+    font-size: 20px;
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    padding: 8px 20px;
+    border-radius: 5%;
+    margin: 10px;
+}
+
+.homepage-message {
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(85, 85, 85);
+    margin-bottom: 15px;
+}
+
+.game-player
+{
+    margin: 1rem;
+color: rgb(85, 85, 85);
+font-size: 16px;
+
+    letter-spacing: 1px;
+    
+}
+
+.winner{
+    color:blueviolet;
+    text-decoration: bold;
+}
+
+.btn{
+    color:blueviolet;
+    border-radius: 2px; 
+    border: 1px solid blueviolet;
+    margin-top: 30px;
+    font-size: 18px;
+    padding: 8px 20px;
+}

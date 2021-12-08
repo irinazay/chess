@@ -29,7 +29,7 @@ This project made with:
 - [React](https://reactjs.org/)
 - [Express](https://expressjs.com/) 
 - [Lichess API](https://lichess.org/api) 
-- [Auth0](hhttps://auth0.com/) 
+- [Auth0](https://auth0.com/) 
 - [PostgreSQL](https://www.postgresql.org/) 
   
 <br>
